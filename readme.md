@@ -15,4 +15,6 @@ As there are many games written for this platform , this project was an approach
 * SDL library is used for graphics support 
 
 
+#### Presentation
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/HyTrljLUuoM/0.jpg)](https://www.youtube.com/watch?v=HyTrljLUuoM)
